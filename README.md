@@ -1,6 +1,8 @@
 # not_defteri
 
-A new Flutter application.
+![alt text](https://raw.githubusercontent.com/voghbum/not_defteri/master/Screenshot_1598860852.png)
+![alt text](https://raw.githubusercontent.com/voghbum/not_defteri/master/Screenshot_1598860866.png)
+
 
 ## Getting Started
 
